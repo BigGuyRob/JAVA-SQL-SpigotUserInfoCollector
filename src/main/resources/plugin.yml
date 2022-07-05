@@ -1,0 +1,4 @@
+name: Infocollector
+version: ${project.version}
+main: farlands.infocollector.Infocollector
+api-version: 1.18
